@@ -21,5 +21,3 @@ How would the team dynamic be in these two scenarios? In scenario 1 the consulta
 Is there anything good about hiring a consultant for a specific project? The company might save some expenses on the consultant not having to learn other systems and domains. But, does this make up the cost of having a more difficult team dynamic? I'm guessing there might be a crossing point of where the cost of having a broken team dynamic might supersede the cost of learning new systems and domains. But I have not been able to find any statistics on this and therefore I have to point out that this is a theory.
 
 In summary, if you are considering hiring a consultant, if its over a smaller period you might want to hire the consultant for a specific project. But if you need to hire one for a longer period, for example over 6 months, you should include them fully in the team.
-
-*Burde jeg også ha laget en tabell som summereer opp?*
