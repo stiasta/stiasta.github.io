@@ -1,4 +1,4 @@
-Code Review **(Mangler bra overskrift)**
+Code Review
 ===================
 A couple of months ago my team and me had barely tried [code reviews](http://en.wikipedia.org/wiki/Code_review). We had heard about it, but we really never got around to try it. Personally, I did not really know how to conduct one and if it really was something that would save us time.
 
