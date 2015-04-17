@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: A Blog about Agile and Development
 ---
 <p>
   ... This is currently a work in progress. Luckily there are some blog posts already written. Go to town!
