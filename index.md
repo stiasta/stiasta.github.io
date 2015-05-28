@@ -8,9 +8,11 @@ title: An Agile and Development Blog
 
 {% for post in site.posts %}
 <article class="panel panel-default">
-    <!-- <header class="panel-heading">
-        <h3 class="panel-title">{{ post.title }}</h3>
-    </header> -->
+    <header class="panel-heading">
+        <a href="{{ post.url }}"> 
+            <h3 class="panel-title">{{ post.title }}</h3>
+        </a>
+    </header>
     <section>
         {{ post.content }}
     </section>
