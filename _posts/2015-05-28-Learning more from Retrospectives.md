@@ -12,7 +12,7 @@ How do you perform retrospectives? Have you had retrospectives where these three
 
 If you always do the same thing, you might have lost out on some important experiences that can make your team more effective.
 
-From many experiences with retrospectives, here are some tips that I have found to be effective when it comes to learning more, and even having some fun at the same time.
+From many experiences with retrospectives, here are some tips I have found to be effective when it comes to learning more, and even having some fun at the same time.
 
 ###Try to Follow this general pattern
 When you perform a retrospective there is usually a pattern you can follow. 
