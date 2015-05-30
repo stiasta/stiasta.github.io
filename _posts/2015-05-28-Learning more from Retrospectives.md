@@ -5,6 +5,7 @@ categories: [agile, retrospective]
 --- 
 
 How do you perform retrospectives? Have you had retrospectives where these three questions are always asked in round robin style?
+
 - What has been positive? 
 - What has been negative? 
 - Is there anything we want improve? 
