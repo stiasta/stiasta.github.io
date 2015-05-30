@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How should you properly integrate contractors?
+categories: [team, contractors]
 ---
 
 ###Introduction

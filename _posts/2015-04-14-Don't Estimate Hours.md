@@ -1,5 +1,9 @@
-Should We Stop Estimating Hours?
-=======================
+---
+layout: post
+title: Should We Stop Estimating Hours?
+categories: [agile, story points]
+---
+
 Have you and your team ever caught yourselves trying to convert story points to hours when planning tasks? Today, this is exactly what happened to my team and me. We were sitting around the table planning the tasks for the upcoming sprint with the regular planning poker. When we took the tasks from the backlog and added them to the sprint, we estimated both story points and the time we believed it would take to complete them. 
 
 After the planning one of my team mates asked, "Why are we estimating both story points and hours?". This question lead to a team huddle were we discussed this and we concluded to stop estimating hours and only estimate story points. 

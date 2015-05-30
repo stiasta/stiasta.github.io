@@ -6,20 +6,35 @@ title: An Agile and Development Blog
   ... This is currently a work in progress. Luckily there are some blog posts already written. Go to town!
 </p>
 
-{% for post in site.posts %}
-<article class="panel panel-default">
-    <header class="panel-heading">
-        <a href="{{ post.url }}"> 
-            <h3 class="panel-title">{{ post.title }}</h3>
-        </a>
-    </header>
-    <section>
-        {{ post.content }}
-    </section>
-    <footer class="panel-footer">
-        <i>{{ post.date | date_to_string }}</i>
-    </footer>
-</article>
-{% endfor %}
+<div class="container">
+    <article>
+        <div class="row">
+            <header>
+                <h3>Posts</h3>
+            </header>
+        </div>
+        <section>
+            <div class="row">
+                <label class="col-xs-10 col-sm-11 col-md-11">
+                    Keywords
+                </label>
+            </div>
+            <div class="row">
+                <div class="list-group col-xs-10 col-sm-11 col-md-11">
+                    {% for post in site.posts %}
+                    <a class="list-group-item"
+                       href="{{ post.url }}"> 
+                        <i>{{ post.date | date_to_string }}</i> - {{ post.title }}
+
+                        <i class="pull-right">
+                            {{ post.categories | array_to_sentence_string }}
+                        </i>
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+    </article>
+</div>
 
 
