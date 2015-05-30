@@ -33,3 +33,7 @@ I believe that if you do the same thing over and over again, you will get into a
 
 Having different activities lets the team look at themselves differently. You will probably end up with finding other views on the team, both negative and positive. Which in turn will lead to other follow ups.
 
+###Follow up the follow ups
+This is very important, you and your team must be confident that the follow ups that the retrospective result in are actually followed up. If you don't the team looses confidence in the retrospective and you will find it more difficult to become a better team.
+
+If there are some of the problems that are ackward and might even involve you talking to a leader. There is a good ensurance that it is the team that has pinpointed the problem and would like to find a solution for it.
