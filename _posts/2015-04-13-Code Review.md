@@ -1,5 +1,9 @@
-Code Review
-===================
+---
+layout: post
+title: Code reviews and my experiences with it.
+categories: [team, programming]
+---
+
 A couple of months ago my team and me had barely tried [code reviews](http://en.wikipedia.org/wiki/Code_review). We had heard about it, but we really never got around to try it. Personally, I did not really know how to conduct one and if it really was something that would save us time.
 
 The turnaround was when we took over an existing project that used [github](https://github.com) as source control. We found that when we started creating pull request and commenting on them in github. We decided to be very particular and thorough on coding standards and the way we wrote the code in the files that were changed. After doing this for a while, we saw that the code quality increased and we caught bugs that perhaps would not be found if we did not do the code reviews.
