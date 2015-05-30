@@ -1,5 +1,7 @@
-How should you properly integrate contractors?
-==========================
+---
+layout: post
+title: How should you properly integrate contractors?
+---
 
 ###Introduction
 Lets say your team is swamped with work and you can't finish the tasks faster than they are pouring in. There is no way to pay attention to all the projects you have. The company you work for have difficulties in finding new people or do not have it in their budged. Nevertheless, they start looking at hiring a contractor to help out with the work load since they have set a side a budget for just that. The company have have concluded that one specific project needs focus and goes through with contract discussions.
