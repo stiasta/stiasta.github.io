@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code reviews and my experiences with it.
+title: Code reviews and my experiences with it
 categories: [team, programming]
 ---
 
