@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code reviews and my experiences with it
+description: What is good about code reviews and how it improved our code.
 categories: [team, programming]
 ---
 
