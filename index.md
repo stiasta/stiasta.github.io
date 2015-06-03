@@ -14,11 +14,11 @@ title: An Agile and Development Blog
             </header>
         </div>
         <section>
-            <div class="row">
-                <label class="col-xs-10 col-sm-11 col-md-11">
+            <!--<div class="row">
+                <label class="hidden-xs col-xs-10 col-sm-11 col-md-11">
                     Keywords
                 </label>
-            </div>
+            </div>-->
             <div class="row">
                 <div class="list-group col-xs-10 col-sm-11 col-md-11">
                     {% for post in site.posts %}
@@ -26,7 +26,7 @@ title: An Agile and Development Blog
                        href="{{ post.url }}"> 
                         <i>{{ post.date | date_to_string }}</i> - {{ post.title }}
 
-                        <i class="pull-right">
+                        <i class="hidden-xs pull-right">
                             {{ post.categories | array_to_sentence_string }}
                         </i>
                     </a>
