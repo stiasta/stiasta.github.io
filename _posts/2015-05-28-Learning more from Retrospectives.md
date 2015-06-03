@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning More from Retrospectives
+description: Learning more from Retrospectives by following a pattern, changing activities, and making sure you follow up the follow ups.
 categories: [agile, retrospective]
 --- 
 
