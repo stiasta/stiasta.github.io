@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Should We Stop Estimating Hours?
+description: The reason you should stop estimating with hours and start estimating with story points.
 categories: [agile, story points]
 ---
 
