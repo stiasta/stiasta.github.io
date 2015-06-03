@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How should you properly integrate contractors?
+description: How to add a contractor/consultant to a team. When you should make the contractor work on a project or with the team.
 categories: [team, contractors]
 ---
 
