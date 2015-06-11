@@ -1,6 +1,7 @@
 ---
 layout: page
 title: An Agile and Development Blog
+description: A blog about experiences in team work, using agile, and develipment.
 ---
 <p>
   ... This is currently a work in progress. Luckily there are some blog posts already written. Go to town!
