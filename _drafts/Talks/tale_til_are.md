@@ -15,4 +15,7 @@ Et år senere så bestemte vi oss for å finne leilighet sammen.
 
 Vi fant ofte på ting, og var mye sammen. Vi hadde til og med vært vårt klesmonster.
 Har dere hørt om klesmonsterene før?
-Et klesmonster er en donge med rene eller brukte klær som man aldri får bort. Mitt holdt til i skapet, Magne sitt lå i stolen hans ved sengen. Men Are sitt klesmonster, DEN var stor. Den var så stor at når man gikk inn på soverommet hans så var det vanskelig å finne en flekk man kunne stå på uten å være borti klær.
+Et klesmonster er en donge med rene eller brukte klær som man aldri får bort. Mitt klesmonster holdt til i skapet mitt og hver gang jeg åpnet opp skap døra så var den på vei ut. Magne sitt lå i stolen hans ved sengen, når han skulle bruke stolen så måtte han flytte den til sengen og når han skulle sove så måtte han flytte den tilbake til stolen. Men Are sitt klesmonster, DEN var stor. Den var så stor at når man gikk inn på soverommet hans så var det vanskelig å finne en flekk man kunne stå på uten å være borti den.
+- Lene, hvordan er det nå? har det blitt bedre?
+
+
