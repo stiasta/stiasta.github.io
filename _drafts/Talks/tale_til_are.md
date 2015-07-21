@@ -18,4 +18,9 @@ Har dere hørt om klesmonsterene før?
 Et klesmonster er en donge med rene eller brukte klær som man aldri får bort. Mitt klesmonster holdt til i skapet mitt og hver gang jeg åpnet opp skap døra så var den på vei ut. Magne sitt lå i stolen hans ved sengen, når han skulle bruke stolen så måtte han flytte den til sengen og når han skulle sove så måtte han flytte den tilbake til stolen. Men Are sitt klesmonster, DEN var stor. Den var så stor at når man gikk inn på soverommet hans så var det vanskelig å finne en flekk man kunne stå på uten å være borti den.
 - Lene, hvordan er det nå? har det blitt bedre?
 
+Vi var ofte sammen og siden vi gikk på samme linje på NTNU, så hadde vi mange av de samme fagene også. Noen av fagene hadde vi også sammen med Lene og hennes venninner. De gangene vi var for sene så måtte vi snike oss inn i forelesningssalene og jeg tror det var Gro eller Hilde som sa at vi så ut som Olsenbanden når de prøvde å bryte seg inn i en bank safe. Magne snek seg vanligvis inn som førsteman, med Are tett i helene, og jeg gikk litt smånervøs bakerst.
+- Var det ikke du som sa det Gro?
+
+** Må ha noe i mellom her
+
 
