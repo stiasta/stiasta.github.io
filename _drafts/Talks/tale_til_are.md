@@ -28,7 +28,21 @@ Etter Åreturen så var Are og Lene mye sammen. Det var nesten slik at Lene flyt
     
 Den tok oss med på mange turer. Det var spesielt en tur han trakk fram, og det var når vi skulle på hyttetur og vi var 5 personer som skulle inn i bilen. Den bilen var veldig stappet. Det var som et spill med twister der vi måtte plassere oss inn mellom alt det der. Bagger på fangene, ski under armene, og skistavene rett over skuldrene.
 
+Som jeg sa innledningvis er det 10 år siden vi ble kjent, Lene har vært der i 9 av disse årene, min samboer i 8 og de siste årene har vi bodd i ulike byer. Til tross for dette har vi holdt kontakten og vi møtes når muligheten byr seg. Dette sier litt om vårt vennskap. Og jeg setter veldig stor pris på å ha deg som en av mine nærmeste venner. 
+
+Vi er ganske like på mange båder: litt bakpå, ikke den som snakker høyest og skal ha oppmerksomhet hele tiden. Vi er også begge glad i en tur på byen, med burger, øl og bra fotball. Samtidig kan vi ha det like artig med et par runder fifa hjemme på sofaen. Du er en jævlig bra fyr, som fortjener en bra dame. Det synes jeg absolutt du har funnet i Lene. Jeg må også si at Magnus er heldig som har dere to som foreldre. Nesten like heldig som ungen min blir, som får meg som hennes pappa :D
+
+
+
+
 Are, 
+- samme humor
+- alltid lett å prate med
+- kan være meg selv
+- alltid med på å finne på ting
+- trenger ikke å stresse med å finne på ting for å ha det artig sammen
+    + kan bare sette oss ned og spille fifa
+- like sjenert
 
 Jeg er veldig glad for at du fant Lene. Ikke bare er hun smart, men gjennom all tid jeg har kjent henne så har hun alltid vært glad og positiv. 
 
