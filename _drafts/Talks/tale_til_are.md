@@ -19,3 +19,6 @@ Et klesmonster er en donge med rene eller brukte klær som man aldri får bort. 
 
 
 Vet dere hvordan Are og Lene traff hverandre? Jeg var litt usikker selv. Lene og venninene hennes tok matte og vi som gikk fysikk hadde naturligvis ganske mange fag sammen med dem. Jeg husker en skitur vi hadde til Åre. Jeg tror det var slik at vi var invitert til hytten til Lene og venninnene. Men for en eller annen grunn så husker jeg at Are var med, men jeg så ikke mye til han den kvelden. Kanskje Lene hadde en finger med i spillet der?
+
+Etter Åreturen så var Are og Lene mye sammen. Det var nesten slik at Lene flyttet inn sammen med oss en stund. Jeg spurte Magne om det var noe spesielt han husket fra tiden vi bodde sammen og noe av det første han kom på var den røde bilen til Lene. 
+- Har dere sett den? Det er en liten peugot, litt mindre enn en volkswagen golf. Den tok oss med på mange turer. Det var spesielt en tur han trakk fram, og det var når vi skulle på hyttetur og vi var 5 personer som skulle inn i bilen. Den bilen var veldig stappet. Det var som et spill med twister der vi måtte plassere oss inn mellom alt det der. Bagger på fangene, ski under armene, og skistavene rett over skuldrene.
