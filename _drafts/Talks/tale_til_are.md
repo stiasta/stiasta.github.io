@@ -8,7 +8,7 @@ Men det viste seg å være et problem i dette tilfellet, for de bildene jeg har 
 Uansett hvor snikete vi prøvde å være når vi tok bildene, så greide fingeren å snike seg inn.
 - Var det slik før han kom til Trondheim, Rita?
 
-Første gangen jeg og Are traff hverandre var på immatrikuleringen på NTNU.
+Are og jeg har faktisk 10 års jubileum. Første gangen vi traff hverandre, i 2005,  var på immatrikuleringen på NTNU.
 Det var i en av de største auditoriene med plass til ca 500. Tilfeldigvis, så satt jeg meg ned ved siden av Are og etter den tid så har vi vært gode venner. 
 Senere samme dag eller så var det dagen etterpå, så traff vi Magne i kantinen. 
 Et år senere så bestemte vi oss for å finne leilighet sammen.
@@ -24,3 +24,5 @@ Etter Åreturen så var Are og Lene mye sammen. Det var nesten slik at Lene flyt
 - Har dere sett den? 
 
 Det er en liten peugot, litt mindre enn en volkswagen golf. Den tok oss med på mange turer. Det var spesielt en tur han trakk fram, og det var når vi skulle på hyttetur og vi var 5 personer som skulle inn i bilen. Den bilen var veldig stappet. Det var som et spill med twister der vi måtte plassere oss inn mellom alt det der. Bagger på fangene, ski under armene, og skistavene rett over skuldrene.
+
+Jeg er veldig glad for at dere fant hverandre på hytta i Åre. 
