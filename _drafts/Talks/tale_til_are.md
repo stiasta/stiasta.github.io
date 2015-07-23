@@ -25,4 +25,10 @@ Etter Åreturen så var Are og Lene mye sammen. Det var nesten slik at Lene flyt
 
 Det er en liten peugot, litt mindre enn en volkswagen golf. Den tok oss med på mange turer. Det var spesielt en tur han trakk fram, og det var når vi skulle på hyttetur og vi var 5 personer som skulle inn i bilen. Den bilen var veldig stappet. Det var som et spill med twister der vi måtte plassere oss inn mellom alt det der. Bagger på fangene, ski under armene, og skistavene rett over skuldrene.
 
-Jeg er veldig glad for at dere fant hverandre på hytta i Åre. 
+Jeg er veldig glad for at du fant Lene. Ikke bare er hun smart og fin, men gjennom all tid jeg har kjent henne så har hun alltid vært glad og positiv. 
+
+Når jeg prøvde å finne et sitat på nettet så fant jeg tilslutt en lite ett som jeg tenker jeg kan avslutte med
+"Den første som glemmer er gladest"
+Dette passer veldig bra til parforhold, for han som må holde en tale for en stor folkemengde, og til folkemengden som må høre på en nervøs taler. 
+
+... skål for Are og Lene!
