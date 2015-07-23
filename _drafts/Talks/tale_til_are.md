@@ -16,3 +16,6 @@ Et år senere så bestemte vi oss for å finne leilighet sammen.
 Vi fant ofte på ting, og var mye sammen. Vi hadde til og med vært vårt klesmonster.
 Har dere hørt om klesmonsterene før?
 Et klesmonster er en donge med rene eller brukte klær som man aldri får bort. Mitt holdt til i skapet, Magne sitt lå i stolen hans ved sengen. Men Are sitt klesmonster, DEN var stor. Den var så stor at når man gikk inn på soverommet hans så var det vanskelig å finne en flekk man kunne stå på uten å være borti klær.
+
+
+Vet dere hvordan Are og Lene traff hverandre? Jeg var litt usikker selv. Lene og venninene hennes tok matte og vi som gikk fysikk hadde naturligvis ganske mange fag sammen med dem. Jeg husker en skitur vi hadde til Åre. Jeg tror det var slik at vi var invitert til hytten til Lene og venninnene. Men for en eller annen grunn så husker jeg at Are var med, men jeg så ikke mye til han den kvelden. Kanskje Lene hadde en finger med i spillet der?
