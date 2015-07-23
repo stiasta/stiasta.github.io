@@ -22,4 +22,5 @@ Vet dere hvordan Are og Lene traff hverandre? Jeg var litt usikker selv. Lene og
 
 Etter Åreturen så var Are og Lene mye sammen. Det var nesten slik at Lene flyttet inn sammen med oss en stund. Jeg spurte Magne om det var noe spesielt han husket fra tiden vi bodde sammen og noe av det første han kom på var den røde bilen til Lene. 
 - Har dere sett den? 
+- 
 Det er en liten peugot, litt mindre enn en volkswagen golf. Den tok oss med på mange turer. Det var spesielt en tur han trakk fram, og det var når vi skulle på hyttetur og vi var 5 personer som skulle inn i bilen. Den bilen var veldig stappet. Det var som et spill med twister der vi måtte plassere oss inn mellom alt det der. Bagger på fangene, ski under armene, og skistavene rett over skuldrene.
