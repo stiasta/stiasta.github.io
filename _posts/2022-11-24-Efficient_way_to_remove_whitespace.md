@@ -197,7 +197,7 @@ public static void Main(string[] args)
 # Results
 ## Short Text
 |                           Method |           Job |       Runtime |                 text |  name |         Mean |      Error |     StdDev |       Median |
-|--------------------------------- |-------------- |-------------- |--------------------- |------ |-------------:|-----------:|-----------:|-------------:|
+|----------------------------------|---------------|---------------|----------------------|-------|-------------:|-----------:|-----------:|-------------:|
 |               RemoveStringReader |      .NET 6.0 |      .NET 6.0 | 123 123     1adc 222 | SHORT |    122.86 ns |   2.435 ns |   2.158 ns |    122.70 ns |
 | RemoveLinqNativeCharIsWhitespace |      .NET 6.0 |      .NET 6.0 | 123 123     1adc 222 | SHORT |    196.58 ns |   3.864 ns |   4.134 ns |    195.19 ns |
 |                       RemoveLinq |      .NET 6.0 |      .NET 6.0 | 123 123     1adc 222 | SHORT |    208.75 ns |   6.480 ns |  17.740 ns |    204.15 ns |
