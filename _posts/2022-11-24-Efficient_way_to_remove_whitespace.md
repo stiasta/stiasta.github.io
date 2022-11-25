@@ -252,3 +252,7 @@ public static void Main(string[] args)
 | StringSplitThenJoin              | .NET 6.0      | .NET 6.0      | LONG | 2,872.59  | 56.242  | 75.082  | 2,846.50  |
 | StringSplitThenJoin              | .NET Core 3.1 | .NET Core 3.1 | LONG | 3,833.31  | 59.144  | 63.283  | 3,844.23  |
 |----------------------------------+---------------+---------------+------+-----------+---------+---------+-----------|
+
+|test|table|
+|---|---|
+|content|2|
