@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Stian Standahl
-tagline: A blog about agile development
+tagline: A blog about Software Development
 author :
   name : Stian Standahl
   email : stian_standahl@hotmail.com	
