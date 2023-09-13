@@ -67,7 +67,7 @@ But wait! What are those two other resources at the bottom? Well, those are depe
 ## Consistent configuration
 Consistency is another great benefit of IaC. You can create templates for your infrastructure, and use these to create it in a consistent way. Let's say you need to create an api, and you need to configure it with a database, storage account and a key vault. If you created this with IaC, you can be sure that no matter how many times you provision it, it will be configured in the same way. 
 
-![Infrastructure created pr feature branch](~/assets/diagrams/2023-08-16-becoming-mode-efficient-with-iac/infrastructure-pr-feature-branch.drawio.png "Infrastructure created pr feature branch")
+![Infrastructure created pr feature branch](https://stiasta.github.io/assets/diagrams/2023-08-16-becoming-mode-efficient-with-iac/infrastructure-pr-feature-branch.drawio.png)
 
 From this diagram you can see that we have two feature branches. You could now easily and consistently create the same infrastructure for them, simply by changing the input parameters.
 
