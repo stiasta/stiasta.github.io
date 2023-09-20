@@ -139,7 +139,7 @@ resource storageAccountRoleAssignment 'Microsoft.Authorization/roleAssignments@2
 [...]
 ```
 
-Using this bicep, you have given the app service access to the storage account with RBAC roles. All you need now is the url to the storage, and use load default credentials when connecting to it. The SQL database is slightly different. In this case you have to add the identity to the database, and then give it the permissions it needs using SQL. Moreover, this has to be done in a script, and not in the bicep file. 
+Using this bicep, you have given the app service access to the storage account with RBAC roles. All you need now is the url to the storage, and use load default credentials when connecting to it. The SQL database is slightly different. In this case you have to add the identity to the database, and then give it the permissions it needs using SQL. Moreover, this has to be done in a script outside of the bicep after it has been run.
 
 here is a sample script that does this.
 ```sql
